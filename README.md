@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-# CFG_Competition
->>>>>>> origin/master
+editing to test
