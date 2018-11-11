@@ -3,8 +3,9 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: green;
-  background-color: orange;
+  color: black;
+  background-color: none;
+  text-align: center;
 }
 p {
   color: blue;
@@ -12,7 +13,7 @@ p {
   font-size: 16px;
 }
 ul li {
-   background-color: yellow;
+   background-color: gray;
 }
 ol li {
   background-color: teal;
